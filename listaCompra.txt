@@ -2,3 +2,5 @@ Pan
 Aceite
 Agua
 Leche
+Detergente
+Pan
